@@ -1,0 +1,131 @@
+{
+		"type": "palette",
+		"name": "immersive_conc1",
+		"palette": [
+			{
+				"char": "X",
+				"block": "immersiveengineering:stone_decoration@5",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "$",
+				"block": "immersiveengineering:stone_decoration@6",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "#",
+				"block": "immersiveengineering:stone_decoration@5",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": ")",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "(",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "/",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@7",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": ".",
+				"block": "immersiveengineering:wooden_decoration"
+			}
+		]
+	},
+	
+	{
+		"type": "palette",
+		"name": "immersive_conc2",
+		"palette": [
+			{
+				"char": "X",
+				"block": "immersiveengineering:stone_decoration@5",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "$",
+				"block": "immersiveengineering:stone_decoration@4",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "#",
+				"block": "immersiveengineering:stone_decoration@5",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": ")",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "(",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "/",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "immersiveengineering:stone_decoration_stairs_concrete@7",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": ".",
+				"block": "immersiveengineering:wooden_decoration"
+			}
+		]
+	},
