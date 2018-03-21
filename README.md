@@ -3,4 +3,4 @@ A set of custom Lost Cities building generation using the built-in JSON customiz
 
 All you need to do is select which customization you would like to add and place that in the /.../instance/config/lostcities  folder.
 You must then rename the file to "userassets.json" in order for Lost Cities to recognize it.
-As of right now, only one "userassets.json" file can be used at a time.
+If you wish to use more than one file, then you will need to add it to the list in the general.cfg config for lost cities.
