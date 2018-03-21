@@ -255,11 +255,11 @@
         "char": "<",
         "blocks": [
           {
-            "random": 15,
+            "random": 10,
             "block": "immersiveengineering:treated_wood"
           },
           {
-            "random": 15,
+            "random": 25,
             "block": "immersiveengineering:sheetmetal"
           },
           {
@@ -273,6 +273,10 @@
           {
             "random": 25,
             "block": "immersiveengineering:sheetmetal@9"
+          },
+          {
+            "random": 10,
+            "block": "immersiveengineering:sheetmetal@7"
           },
           {
             "random": 1000,
@@ -329,6 +333,10 @@
             "block": "minecraft:obsidian"
           }
         ]
+      },
+      {
+        "char": "N",
+        "block": "minecraft:tnt"
       }
     ]
   },
