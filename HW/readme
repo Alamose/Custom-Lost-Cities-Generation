@@ -21,3 +21,33 @@ The config.cfg shows how the assets are now loaded. You can just edit your confi
      >
 
 The rest of the files go in the config folder. Nothing else needs to be done with them.
+
+Blocks added:
+//Quark
+//blocks
+<quark:charred_nether_bricks>
+<quark:iron_plate>
+<quark:midori_block>
+<quark:sandstone_new>
+<quark:world_stone_bricks>
+
+//stairs
+<quark:charred_nether_brick_stairs>
+<quark:iron_plate_stairs>
+<quark:midori_block_stairs>
+<quark:sandy_bricks_stairs>
+<quark:soul_sandstone_stairs>
+<quark:stone_basalt_bricks_stairs>
+<quark:stone_marble_bricks_stairs>
+<quark:stone_marble_stairs>
+
+
+//Minecraft
+//Blocks
+<minecraft:black_glazed_terracotta>
+<minecraft:concrete>
+<minecraft:nether_brick>
+<minecraft:stained_hardened_clay>
+
+//Stairs
+<minecraft:nether_brick_stairs>
