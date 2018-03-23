@@ -1,5 +1,6 @@
 The config.cfg shows how the assets are now loaded. You can just edit your config to add those lines:
 
+    # List of asset libraries loaded in the specified order. If the path starts with '/' it is going to be loaded directly from the classpath. If the path starts with '$' it is loaded from the config directory [default: [/assets/lostcities/citydata/conditions.json], [/assets/lostcities/citydata/palette.json], [/assets/lostcities/citydata/palette_desert.json], [/assets/lostcities/citydata/palette_chisel.json], [/assets/lostcities/citydata/palette_chisel_desert.json], [/assets/lostcities/citydata/highwayparts.json], [/assets/lostcities/citydata/railparts.json], [/assets/lostcities/citydata/monorailparts.json], [/assets/lostcities/citydata/buildingparts.json], [/assets/lostcities/citydata/library.json], [$lostcities/userassets.json]]
     S:assets <
         /assets/lostcities/citydata/conditions.json
         /assets/lostcities/citydata/palette.json
@@ -17,6 +18,7 @@ The config.cfg shows how the assets are now loaded. You can just edit your confi
         $lostcities/building_modern_2.json
         $lostcities/multi_factory_2.json
         $lostcities/palette_neutral_quark.json
+        $lostcities/building_gas_station_ie_petro.json
         $lostcities/userassets.json
      >
 
