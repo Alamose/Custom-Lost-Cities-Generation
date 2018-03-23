@@ -1,0 +1,717 @@
+[	
+	{
+		"type": "palette",
+		"name": "quark_black_conc",
+		"palette": [
+			{
+				"char": "#",
+				"block": "minecraft:concrete@15",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:black_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:black_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:black_glazed_terracotta@2"
+					},
+					{
+						"random": 1000,
+						"block": "minecraft:black_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "A",
+				"block": "quark:stone_marble_bricks_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "quark:stone_marble_bricks_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "quark:stone_marble_bricks_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "quark:stone_marble_bricks_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "quark:stone_marble_bricks_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "_",
+				"block": "quark:stone_marble_bricks_slab",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "=",
+				"block": "quark:stone_marble_bricks_slab@8",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "u",
+				"block": "quark:stone_marble_bricks_slab_double",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "w",
+				"block": "quark:stone_marble_bricks_wall",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "X",
+				"frompalette": "#"
+			},
+			{
+				"char": "S",
+				"frompalette": "$"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "quark_light_gray_conc",
+		"palette": [
+			{
+				"char": "#",
+				"block": "minecraft:concrete@8",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"block": "minecraft:stained_hardened_clay@10",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "quark:stone_marble_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "quark:stone_marble_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "quark:stone_marble_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "quark:stone_marble_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "quark:stone_marble_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "_",
+				"block": "quark:stone_diorite_slab",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "=",
+				"block": "quark:stone_diorite_slab@8",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "u",
+				"block": "quark:stone_diorite_slab_double",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "w",
+				"block": "quark:stone_diorite_wall",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "X",
+				"frompalette": "#"
+			},
+			{
+				"char": "S",
+				"frompalette": "$"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "quark_gray_conc",
+		"palette": [
+			{
+				"char": "#",
+				"block": "minecraft:concrete@7",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"block": "minecraft:concrete@9",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "quark:iron_plate_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "quark:iron_plate_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "quark:iron_plate_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "quark:iron_plate_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "quark:iron_plate_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "_",
+				"block": "quark:stone_basalt_slab",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "=",
+				"block": "quark:stone_basalt_slab@8",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "u",
+				"block": "quark:stone_basalt_slab_double",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "w",
+				"block": "quark:stone_basalt_bricks_wall",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "X",
+				"frompalette": "#"
+			},
+			{
+				"char": "S",
+				"frompalette": "$"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "quark_limestone",
+		"palette": [
+			{
+				"char": "#",
+				"block": "quark:world_stone_bricks@5",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"block": "quark:midori_block",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "quark:midori_block_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "quark:midori_block_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "quark:midori_block_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "quark:midori_block_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "quark:midori_block_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "_",
+				"block": "quark:stained_clay_tiles_cyan_slab",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "=",
+				"block": "quark:stained_clay_tiles_cyan_slab@8",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "u",
+				"block": "quark:stained_clay_tiles_cyan_slab_double",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "w",
+				"block": "quark:quartz_wall",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "X",
+				"frompalette": "#"
+			},
+			{
+				"char": "S",
+				"frompalette": "$"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "quark_andesite",
+		"palette": [
+			{
+				"char": "#",
+				"block": "quark:world_stone_bricks@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"block": "quark:world_stone_bricks@4",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "quark:stone_marble_bricks_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "quark:stone_marble_bricks_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "quark:stone_marble_bricks_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "quark:stone_marble_bricks_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "quark:stone_marble_bricks_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "_",
+				"block": "quark:stone_marble_bricks_slab",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "=",
+				"block": "quark:stone_marble_bricks_slab@8",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "u",
+				"block": "quark:stone_marble_bricks_slab_double",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "w",
+				"block": "quark:stone_andesite_bricks_wall",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "X",
+				"frompalette": "#"
+			},
+			{
+				"char": "S",
+				"frompalette": "$"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "quark_diorite",
+		"palette": [
+			{
+				"char": "#",
+				"block": "quark:world_stone_bricks@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"block": "quark:world_stone_bricks@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "quark:stone_basalt_bricks_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "quark:stone_basalt_bricks_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "quark:stone_basalt_bricks_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "quark:stone_basalt_bricks_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "quark:stone_basalt_bricks_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "_",
+				"block": "quark:iron_plate_slab",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "=",
+				"block": "quark:iron_plate_slab@8",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "u",
+				"block": "quark:iron_plate_slab_double",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "w",
+				"block": "quark:stone_diorite_wall",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "X",
+				"frompalette": "#"
+			},
+			{
+				"char": "S",
+				"frompalette": "$"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "quark_soulstone_brick",
+		"palette": [
+			{
+				"char": "#",
+				"block": "quark:sandstone_new@5",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"block": "quark:charred_nether_bricks",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "quark:charred_nether_brick_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "quark:charred_nether_brick_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "quark:charred_nether_brick_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "quark:charred_nether_brick_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "quark:charred_nether_brick_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "_",
+				"block": "quark:stained_clay_tiles_cyan_slab",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "=",
+				"block": "quark:stained_clay_tiles_cyan_slab@8",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "u",
+				"block": "quark:stained_clay_tiles_cyan_slab_double",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "w",
+				"block": "quark:stone_basalt_bricks_wall",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "X",
+				"frompalette": "#"
+			},
+			{
+				"char": "S",
+				"frompalette": "$"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "quark_red_sandstone_brick",
+		"palette": [
+			{
+				"char": "#",
+				"block": "quark:sandstone_new@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"block": "minecraft:nether_brick",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:nether_brick_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:nether_brick_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:nether_brick_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:nether_brick_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:nether_brick_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "_",
+				"block": "quark:sandstone_bricks_slab",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "=",
+				"block": "quark:sandstone_bricks_slab@8",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "u",
+				"block": "quark:sandstone_bricks_slab_double",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "w",
+				"block": "minecraft:nether_brick_fence",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "X",
+				"frompalette": "#"
+			},
+			{
+				"char": "S",
+				"frompalette": "$"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "quark_limestone_desert",
+		"palette": [
+			{
+				"char": "#",
+				"block": "quark:world_stone_bricks@5",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"block": "quark:sandstone_new@5",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "quark:soul_sandstone_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "quark:soul_sandstone_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "quark:soul_sandstone_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "quark:soul_sandstone_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "quark:soul_sandstone_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "_",
+				"block": "quark:soul_sandstone_slab",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "=",
+				"block": "quark:soul_sandstone_slab@8",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "u",
+				"block": "quark:soul_sandstone_slab_double",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "w",
+				"block": "quark:limestone_wall",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "X",
+				"frompalette": "#"
+			},
+			{
+				"char": "S",
+				"frompalette": "$"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "quark_charred_nether_brick",
+		"palette": [
+			{
+				"char": "#",
+				"block": "quark:charred_nether_bricks",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"block": "quark:iron_plate@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "quark:sandy_bricks_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "quark:sandy_bricks_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "quark:sandy_bricks_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "quark:sandy_bricks_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "quark:sandy_bricks_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "_",
+				"block": "quark:sandy_bricks_slab",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "=",
+				"block": "quark:sandy_bricks_slab@8",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "u",
+				"block": "quark:sandy_bricks_slab_double",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "w",
+				"block": "quark:stone_limestone_bricks_wall",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "X",
+				"frompalette": "#"
+			},
+			{
+				"char": "S",
+				"frompalette": "$"
+			}
+		]
+	}
+]	
