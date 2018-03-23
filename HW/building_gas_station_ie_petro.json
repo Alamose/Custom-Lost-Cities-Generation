@@ -1,0 +1,370 @@
+[  
+  {
+    "type": "part",
+    "name": "gas_station_10",
+    "xsize": 16,
+    "zsize": 16,
+    "preferslonely": 1.0,
+    "meta": [
+      {
+        "key": "dontconnect",
+        "boolean": true
+      }
+    ],
+    "palette": [
+      {
+        "char": "i",
+        "block": "minecraft:ice",
+        "damaged": "minecraft:water"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:brewing_stand"
+      }
+    ],
+    "slices": [
+      [
+        "################",
+        "###1########$$$#",
+        "############$$$#",
+        "############$$$#",
+        "############$$$#",
+        "############$$$#",
+        "############1$$#",
+        "################",
+        "MMMMMMMMMMMMMMMM",
+        "RRRRRRRRRRRRRRRR",
+        "RRRRRRRRRRRRRRRR",
+        "RRRRRRRRRRRRRRRR",
+        "RRRMwMRRRRMwMRRR",
+        "RRRRRRRRRRRRRRRR",
+        "RRRRRRRRRRRRRRRR",
+        "RRRRRRRRRRRRRRRR"
+      ],
+      [
+        "################",
+        "#F $$$$$$$$$$$$#",
+        "#           `i$#",
+        "#  $        ` $#",
+        "#  $   LLL  `i$#",
+        "#F $        `i$#",
+        "#  $        $$$#",
+        "#aa#  #aaaaa####",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "   wzw    wzw   ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "################",
+        "#  $  B B   $$$#",
+        "#           ` $#",
+        "#  _        ` $#",
+        "#  _   LLL  `i$#",
+        "#  _        ` $#",
+        "#  _        $$$#",
+        "#aa#  #aaaaa####",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "   wdw    wdw   ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "################",
+        "#  $        $$$#",
+        "#           ` $#",
+        "#           ` $#",
+        "#           ` $#",
+        "#           ` $#",
+        "#           $$$#",
+        "#aa#  #aaaaa####",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "   www    www   ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "################",
+        "#  $       %$$$#",
+        "#  $        $$$#",
+        "#  $        $$$#",
+        "#  $        $$$#",
+        "#  $        $$$#",
+        "#  $        $$$#",
+        "#aa####aaaaa####",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "   w        w   ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "################",
+        "################",
+        "##############$#",
+        "################",
+        "################",
+        "################",
+        "################",
+        "################",
+        "________________",
+        "________________",
+        "________________",
+        "________________",
+        "________________",
+        "________________",
+        "________________",
+        "________________"
+      ]
+    ]
+  },
+
+  {
+    "type": "part",
+    "name": "gas_station_1c",
+    "xsize": 16,
+    "zsize": 16,
+    "meta": [
+      {
+        "key": "dontconnect",
+        "boolean": true
+      }
+    ],
+    "palette": [
+      {
+        "char": "g",
+        "blocks": [
+          {
+            "random": 32,
+            "block": "immersivepetroleum:fluid_diesel"
+          },
+          {
+            "random": 32,
+            "block": "immersivepetroleum:fluid_gasoline"
+          },
+          {
+            "random": 32,
+            "block": "immersivepetroleum:fluid_lubricant"
+          },
+          {
+            "random": 1000,
+            "block": "minecraft:water"
+          }
+        ]
+      }
+    ],
+    "slices": [
+      [
+        "################",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DD##########DD#",
+        "#DD##########DD#",
+        "#DD##########DD#",
+        "#DDDDDDDDDDDDDD#",
+        "################"
+      ],
+      [
+        "################",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DD##########DD#",
+        "#D#gggggggggg#D#",
+        "#D#gggggggggg#D#",
+        "#D#gggggggggg#D#",
+        "#DD##########DD#",
+        "################"
+      ],
+      [
+        "################",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDD1DDDDDD#",
+        "#DD##########DD#",
+        "#D#          #D#",
+        "#D# w      w #D#",
+        "#D#          #D#",
+        "#DD##########DD#",
+        "################"
+      ],
+      [
+        "################",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DD##########DD#",
+        "#D#          #D#",
+        "#D# w      w #D#",
+        "#D#          #D#",
+        "#DD##########DD#",
+        "################"
+      ],
+      [
+        "################",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DD##########DD#",
+        "#DD#w######w#DD#",
+        "#DD##########DD#",
+        "#DDDDDDDDDDDDDD#",
+        "################"
+      ],
+      [
+        "################",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DDDDDDDDDDDDDD#",
+        "#DD###DDDD###DD#",
+        "#DD#w#DDDD#w#DD#",
+        "#DD###DDDD###DD#",
+        "#DDDDDDDDDDDDDD#",
+        "################"
+      ]
+    ]
+  },
+
+  {
+    "type": "part",
+    "name": "gas_station_1t",
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "                ",
+        "           HHH  ",
+        "           HHH$ ",
+        "           HHH  ",
+        "                ",
+        "#              #",
+        "#              #",
+        "################",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "           HHH  ",
+        "           HHH  ",
+        "                ",
+        "                ",
+        "#              #",
+        "################",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "################",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ]
+    ]
+  },
+
+  {
+    "type": "building",
+    "name": "gas_station1",
+    "filler": "R",
+    "maxcellars": 3,
+    "minfloors": 1,
+    "maxfloors": 1,
+    "parts": [
+      {
+        "top": false,
+        "ground": true,
+        "cellar": false,
+        "part": "gas_station_10"
+      },
+      {
+        "cellar": true,
+        "part": "gas_station_1c"
+      },
+      {
+        "top": true,
+        "part": "gas_station_1t"
+      }
+    ]
+  }
+]
