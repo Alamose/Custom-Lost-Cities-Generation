@@ -302,6 +302,10 @@
       {
         "factor": 0.2,
         "building": "modern2"
+      },
+      {
+        "factor": 0.08,
+        "building": "gas_station1"
       }
     ],
     "multibuildings": [
