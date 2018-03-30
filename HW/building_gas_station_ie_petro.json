@@ -348,6 +348,7 @@
     "name": "gas_station1",
     "filler": "R",
     "maxcellars": 3,
+    "mincellars": 1,
     "minfloors": 1,
     "maxfloors": 1,
     "parts": [

@@ -16,9 +16,13 @@ The config.cfg shows how the assets are now loaded. You can just edit your confi
         $lostcities/building_modern_0.json
         $lostcities/building_modern_1.json
         $lostcities/building_modern_2.json
+        $lostcities/building_modern_3.json
         $lostcities/multi_factory_2.json
         $lostcities/palette_neutral_quark.json
         $lostcities/building_gas_station_ie_petro.json
+        $lostcities/park_crystal1.json
+        $lostcities/park_path1.json
+        $lostcities/multi_power_plant_1.json
         $lostcities/userassets.json
      >
 

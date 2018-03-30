@@ -1,7 +1,7 @@
 [  
   {
     "type": "part",
-    "name": "modern_20",
+    "name": "modern20",
     "xsize": 16,
     "zsize": 16,
     "slices": [
@@ -118,7 +118,7 @@
 
   {
     "type": "part",
-    "name": "modern_21",
+    "name": "modern21",
     "xsize": 16,
     "zsize": 16,
     "slices": [
@@ -235,7 +235,7 @@
   
   {
     "type": "part",
-    "name": "modern_22",
+    "name": "modern22",
     "xsize": 16,
     "zsize": 16,
     "slices": [
@@ -351,7 +351,7 @@
   },
   {
     "type": "part",
-    "name": "modern_23",
+    "name": "modern23",
     "xsize": 16,
     "zsize": 16,
     "slices": [
@@ -467,7 +467,7 @@
   },
   {
     "type": "part",
-    "name": "modern_24",
+    "name": "modern24",
     "xsize": 16,
     "zsize": 16,
     "slices": [
@@ -583,7 +583,7 @@
   },
   {
     "type": "part",
-    "name": "modern_25",
+    "name": "modern25",
     "xsize": 16,
     "zsize": 16,
     "slices": [
@@ -699,7 +699,7 @@
   },
   {
     "type": "part",
-    "name": "modern_2t",
+    "name": "modern2t",
     "xsize": 16,
     "zsize": 16,
     "slices": [
@@ -824,31 +824,31 @@
     "parts": [
       {
         "top": false,
-        "part": "modern_20"
+        "part": "modern20"
       },
       {
         "top": false,
-        "part": "modern_21"
+        "part": "modern21"
       },
       {
         "top": false,
-        "part": "modern_22"
+        "part": "modern22"
       },
       {
         "top": false,
-        "part": "modern_23"
+        "part": "modern23"
       },
       {
         "top": false,
-        "part": "modern_24"
+        "part": "modern24"
       },
       {
         "top": false,
-        "part": "modern_25"
+        "part": "modern25"
       },
       {
         "top": true,
-        "part": "modern_2t"
+        "part": "modern2t"
       }
     ]
   }

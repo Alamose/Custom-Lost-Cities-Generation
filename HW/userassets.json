@@ -256,7 +256,7 @@
       "streetvariant": "B"
     },
     "parkblocks": {
-      "elevation": "x"
+      "elevation": "D"
     },
     "corridorblocks": {
       "roof": "x",
@@ -356,6 +356,10 @@
       {
         "factor": 0.1,
         "multibuilding": "factory2"
+      },
+      {
+        "factor": 0.5,
+        "multibuilding": "power_plant1"
       }
     ],
     "bridges": [
@@ -446,6 +450,14 @@
       {
         "factor": 0.3,
         "park": "park_building2"
+      },
+      {
+        "factor": 0.8,
+        "park": "park_crystal1"
+      },
+      {
+        "factor": 0.3,
+        "park": "park_path1"
       }
     ],
     "raildungeons": [
@@ -679,11 +691,11 @@
       },
       {
         "char": "G",
-        "block": "minecraft:grass"
+        "block": "deepresonance:poisoned_dirt"
       },
       {
         "char": "D",
-        "block": "minecraft:dirt"
+        "block": "deepresonance:poisoned_dirt"
       },
       {
         "char": " ",
@@ -812,6 +824,10 @@
         "char": "R",
         "block": "immersivepetroleum:stone_decoration",
         "damaged": "minecraft:iron_bars"
+      },
+      {
+        "char": "G",
+        "block": "deepresonance:poisoned_dirt"
       }
     ]
   },
@@ -1065,6 +1081,10 @@
       {
         "char": "M",
         "block": "minecraft:double_stone_slab"
+      },
+      {
+        "char": "G",
+        "block": "deepresonance:poisoned_dirt"
       }
     ]
   },
@@ -1189,6 +1209,10 @@
       {
         "char": "/",
         "block": "minecraft:stone_stairs@1"
+      },
+      {
+        "char": "G",
+        "block": "deepresonance:poisoned_dirt"
       }
     ]
   }

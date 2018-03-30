@@ -1,0 +1,58 @@
+[
+	{
+    "type": "part",
+    "name": "park_path1",
+    "xsize": 16,
+    "zsize": 16,
+    "meta": [
+          {
+            "key": "isElevatedParkSection",
+            "boolean": false
+          }
+    ],
+    "palette": [
+      {
+        "char": "P",
+        "block": "minecraft:grass_path"
+      }
+    ],
+    "slices": [
+      [
+        "                ",
+        " #cccccccccccc# ",
+        " tGGGGGPPGGGGGA ",
+        " tGGGPPPPPPGGGA ",
+        " tGGPPPPPPPPGGA ",
+        " tGPPPGGGGPPPGA ",
+        " tGPPGGGGGGPPGA ",
+        " tPPPGGGGGGPPPA ",
+        " tPPPGGGGGGPPPA ",
+        " tGPPGGGGGGPPGA ",
+        " tGPPPGGGGPPPGA ",
+        " tGGPPPPPPPPGGA ",
+        " tGGGPPPPPPGGGA ",
+        " tGGGGGPPGGGGGA ",
+        " #zzzzzzzzzzzz# ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ]
+    ]
+  }
+]

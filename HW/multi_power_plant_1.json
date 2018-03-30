@@ -1,0 +1,3493 @@
+[
+    {
+        "type": "part",
+        "name": "power_plant1_00_0",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          },
+          {
+            "char": "R",
+            "blocks": [
+            {
+                "random": 40,
+                "block": "quark:iron_plate",
+                "damaged": "minecraft:iron_bars"
+            },
+            {
+                "random": 1000,
+                "block": "quark:iron_plate@1",
+                "damaged": "minecraft:iron_bars"
+            }
+            ]
+          },
+          {
+            "char": "D",
+            "block": "deepresonance:dense_glass"
+          },
+          {
+            "char": "O",
+            "block": "deepresonance:dense_obsidian",
+            "damaged": "minecraft:obsidian"
+          },
+          {
+            "char": "C",
+            "block": "deepresonance:resonating_crystal"
+          },
+          {
+            "char": "Z",
+            "block": "thermalfoundation:fluid_aerotheum"
+          },
+          {
+            "char": "E",
+            "block": "deepresonance:energy_collector",
+            "damaged": "minecraft:iron_bars"
+          },
+          {
+            "char": "N",
+            "block": "deepresonance:generator_controller",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "################",
+            "#GGGGGGGGGGGGGGG",
+            "#GGGGGGGGGGGGGGG",
+            "#GGGGGGGGGGGGGGG",
+            "#GGGGGGGGGGGGGGG",
+            "#GGGGGGGGGGGGGGG",
+            "#GGGGGGGGGGGGRRR",
+            "#GGGGGGGGGGRRRRR",
+            "#GGGGGGGGGRRRRRR",
+            "#GGGGGGGGRRRRRRR",
+            "#GGGGGGGRRRRRRRR",
+            "#GGGGGGRRRRRRRRR",
+            "#GGGGGGRRRRRRRRR",
+            "#GGGGGRRRRRRRRRR",
+            "#GGGGGRRRRRRRRRR",
+            "#GGGGGRRRRRRRRRR"
+          ],
+          [
+            "################",
+            "#               ",
+            "#               ",
+            "#               ",
+            "#               ",
+            "#               ",
+            "#            :L:",
+            "#          :L:  ",
+            "#         L:    ",
+            "#        L   D  ",
+            "#       L       ",
+            "#      ::  D    ",
+            "#      L        ",
+            "#     ::      ::",
+            "#     L        D",
+            "#     :       :O"
+          ],
+          [
+            "#:::::::::::::::",
+            ":               ",
+            ":               ",
+            ":               ",
+            ":               ",
+            ":               ",
+            ":            :L:",
+            ":          :L:  ",
+            ":         L:    ",
+            ":        L      ",
+            ":       L       ",
+            ":      ::       ",
+            ":      L        ",
+            ":     ::        ",
+            ":     L         ",
+            ":     :       :O"
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "              LL",
+            "            LL  ",
+            "          LL    ",
+            "         L      ",
+            "        L       ",
+            "        L       ",
+            "       L        ",
+            "       L        ",
+            "      L        :",
+            "      L       :O"
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "              LL",
+            "            LL  ",
+            "          LL    ",
+            "         L      ",
+            "        L       ",
+            "        L       ",
+            "       L        ",
+            "       L        ",
+            "      L        :",
+            "      L       :O"
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "             LLL",
+            "            LL  ",
+            "          LL    ",
+            "         LL     ",
+            "         L      ",
+            "        L       ",
+            "       LL       ",
+            "       L       :",
+            "       L      ::"
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_00_1",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "             LLL",
+            "            LL  ",
+            "          LL    ",
+            "         LL     ",
+            "         L      ",
+            "        L       ",
+            "       LL       ",
+            "       L        ",
+            "       L        "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "              LL",
+            "            LL  ",
+            "           L    ",
+            "          L     ",
+            "         L      ",
+            "        L       ",
+            "        L       ",
+            "       L        ",
+            "       L        "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "              LL",
+            "            LL  ",
+            "           L    ",
+            "          L     ",
+            "         L      ",
+            "        L       ",
+            "        L       ",
+            "       L        ",
+            "       L        "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "             LLL",
+            "            LL  ",
+            "          LL    ",
+            "          L     ",
+            "         L      ",
+            "        LL      ",
+            "        L       ",
+            "        L       "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "             LLL",
+            "            LL  ",
+            "          LL    ",
+            "          L     ",
+            "         L      ",
+            "        LL      ",
+            "        L       ",
+            "        L       "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "              LL",
+            "            LL  ",
+            "           L    ",
+            "          L     ",
+            "         L      ",
+            "         L      ",
+            "        L       ",
+            "        L       "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_00_2",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "              LL",
+            "            LL  ",
+            "           L    ",
+            "          L     ",
+            "         L      ",
+            "         L      ",
+            "        L       ",
+            "        L       "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "              LL",
+            "            LLL ",
+            "           LL   ",
+            "          LL    ",
+            "          L     ",
+            "         LL     ",
+            "         L      "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "              LL",
+            "            LLL ",
+            "           LL   ",
+            "          LL    ",
+            "          L     ",
+            "         LL     ",
+            "         L      "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "               L",
+            "             LL ",
+            "           LL   ",
+            "           L    ",
+            "          L     ",
+            "          L     ",
+            "         L      "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "               L",
+            "             LL ",
+            "           LL   ",
+            "           L    ",
+            "          L     ",
+            "          L     ",
+            "         L      "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "              LL",
+            "             LL ",
+            "            L   ",
+            "           L    ",
+            "          LL    ",
+            "          L     "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_00_3",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "              LL",
+            "             LL ",
+            "            L   ",
+            "           L    ",
+            "          LL    ",
+            "          L     "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "               L",
+            "             LL ",
+            "            L   ",
+            "           L    ",
+            "           L    ",
+            "          L     "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "               L",
+            "             LL ",
+            "            L   ",
+            "           L    ",
+            "           L    ",
+            "          L     "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "              LL",
+            "             LL ",
+            "            L   ",
+            "           LL   ",
+            "           L    "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "              LL",
+            "             LL ",
+            "            L   ",
+            "           LL   ",
+            "           L    "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "               L",
+            "             LL ",
+            "            L   ",
+            "            L   ",
+            "           L    "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_00_4",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "               L",
+            "             LL ",
+            "            L   ",
+            "            L   ",
+            "           L    "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "               L",
+            "             LL ",
+            "            L   ",
+            "            L   ",
+            "           L    "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "               L",
+            "             LL ",
+            "            L   ",
+            "            L   ",
+            "           L    "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "              LL",
+            "             LL ",
+            "            L   ",
+            "           LL   ",
+            "           L    "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "              LL",
+            "             LL ",
+            "            L   ",
+            "           LL   ",
+            "           L    "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "               L",
+            "             LL ",
+            "            L   ",
+            "           L    ",
+            "           L    ",
+            "          L     "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_00_5",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "               L",
+            "             LL ",
+            "            L   ",
+            "           L    ",
+            "           L    ",
+            "          L     "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "              LL",
+            "             LL ",
+            "            L   ",
+            "           L    ",
+            "          LL    ",
+            "          L     "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "               L",
+            "             LL ",
+            "           LL   ",
+            "           L    ",
+            "          L     ",
+            "          L     ",
+            "         L      "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "               L",
+            "             LL ",
+            "           LL   ",
+            "           L    ",
+            "          L     ",
+            "          L     ",
+            "         L      "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_10_0",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          },
+          {
+            "char": "R",
+            "blocks": [
+            {
+                "random": 40,
+                "block": "quark:iron_plate",
+                "damaged": "minecraft:iron_bars"
+            },
+            {
+                "random": 1000,
+                "block": "quark:iron_plate@1",
+                "damaged": "minecraft:iron_bars"
+            }
+            ]
+          },
+          {
+            "char": "D",
+            "block": "deepresonance:dense_glass"
+          },
+          {
+            "char": "O",
+            "block": "deepresonance:dense_obsidian",
+            "damaged": "minecraft:obsidian"
+          },
+          {
+            "char": "C",
+            "block": "deepresonance:resonating_crystal"
+          },
+          {
+            "char": "Z",
+            "block": "thermalfoundation:fluid_aerotheum"
+          },
+          {
+            "char": "E",
+            "block": "deepresonance:energy_collector",
+            "damaged": "minecraft:iron_bars"
+          },
+          {
+            "char": "N",
+            "block": "deepresonance:generator_controller",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "################",
+            "GGGGGGGGGGGGGGG#",
+            "GGGGGGGGGGGGGGG#",
+            "GGGGGGGGGGGGGGG#",
+            "GGGGGGGGGGGGGGG#",
+            "GGGGGGGGGGGGGGG#",
+            "RRRRRRGGGGGGGGG#",
+            "RRRRRRRRGGGGGGG#",
+            "RRRRRRRRRGGGGGG#",
+            "RRRRRRRRRRGGGGG#",
+            "RRRRRRRRRRRGGGG#",
+            "RRRRRRRRRRRRGGG#",
+            "RRRRRRRRRRRRGGG#",
+            "RRRRRRRRRRRRRGG#",
+            "RRRRRRRRRRRRRGG#",
+            "RRRRRRRRRRRRRGG#"
+          ],
+          [
+            "################",
+            "               #",
+            "               #",
+            "               #",
+            "               #",
+            "               #",
+            "L:L:L:         #",
+            "     :L:       #",
+            "       :L      #",
+            "         L     #",
+            "          L    #",
+            "          ::   #",
+            "           L   #",
+            "           ::  #",
+            "OOO:        L  #",
+            "OOOO:       :  #"
+          ],
+          [
+            "::::::::::::::::",
+            "               :",
+            "               :",
+            "               :",
+            "               :",
+            "               :",
+            "L:L:L:         :",
+            "     :L:       :",
+            "       :L      :",
+            "         L     :",
+            "          L    :",
+            "          ::   :",
+            "           L   :",
+            "           ::  :",
+            " DD:        L  :",
+            "   O:       L  :"
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLL           ",
+            "     LL         ",
+            "       LL       ",
+            "         L      ",
+            "          L     ",
+            "          L     ",
+            "           L    ",
+            "           L    ",
+            "  D:        L   ",
+            "   O:       L   "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLL           ",
+            "     LL         ",
+            "       LL       ",
+            "         L      ",
+            "          L     ",
+            "          L     ",
+            "           L    ",
+            "           L    ",
+            "OOO:        L   ",
+            "   O:       L   "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLLL          ",
+            "     LL         ",
+            "       LL       ",
+            "        LL      ",
+            "         L      ",
+            "          L     ",
+            "          LL    ",
+            ":O::       L    ",
+            "OOO::      L    "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_10_1",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          },
+          {
+            "char": "D",
+            "block": "deepresonance:dense_glass"
+          },
+          {
+            "char": "O",
+            "block": "deepresonance:dense_obsidian",
+            "damaged": "minecraft:obsidian"
+          },
+          {
+            "char": "C",
+            "block": "deepresonance:resonating_crystal"
+          },
+          {
+            "char": "Z",
+            "block": "thermalfoundation:fluid_aerotheum"
+          },
+          {
+            "char": "E",
+            "block": "deepresonance:energy_collector",
+            "damaged": "minecraft:iron_bars"
+          },
+          {
+            "char": "N",
+            "block": "deepresonance:generator_controller",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLLL          ",
+            "     LL         ",
+            "       LL       ",
+            "        LL      ",
+            "         L      ",
+            "          L     ",
+            "          LL    ",
+            ":::        L    ",
+            "OOO        L    "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLL           ",
+            "     LL         ",
+            "       L        ",
+            "        L       ",
+            "         L      ",
+            "          L     ",
+            "          L     ",
+            "           L    ",
+            " O         L    "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLL           ",
+            "     LL         ",
+            "       L        ",
+            "        L       ",
+            "         L      ",
+            "          L     ",
+            "          L     ",
+            "           L    ",
+            "           L    "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLLL          ",
+            "     LL         ",
+            "       LL       ",
+            "        L       ",
+            "         L      ",
+            "         LL     ",
+            "          L     ",
+            "          L     "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLLL          ",
+            "     LL         ",
+            "       LL       ",
+            "        L       ",
+            "         L      ",
+            "         LL     ",
+            "          L     ",
+            "          L     "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLL           ",
+            "     LL         ",
+            "       L        ",
+            "        L       ",
+            "         L      ",
+            "         L      ",
+            "          L     ",
+            "          L     "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_10_2",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLL           ",
+            "     LL         ",
+            "       L        ",
+            "        L       ",
+            "         L      ",
+            "         L      ",
+            "          L     ",
+            "          L     "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLL           ",
+            "    LLL         ",
+            "      LL        ",
+            "       LL       ",
+            "        L       ",
+            "        LL      ",
+            "         L      "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLL           ",
+            "    LLL         ",
+            "      LL        ",
+            "       LL       ",
+            "        L       ",
+            "        LL      ",
+            "         L      "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLL            ",
+            "    LL          ",
+            "      LL        ",
+            "       L        ",
+            "        L       ",
+            "        L       ",
+            "         L      "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLL            ",
+            "    LL          ",
+            "      LL        ",
+            "       L        ",
+            "        L       ",
+            "        L       ",
+            "         L      "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLL           ",
+            "    LL          ",
+            "      L         ",
+            "       L        ",
+            "       LL       ",
+            "        L       "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_10_3",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLL           ",
+            "    LL          ",
+            "      L         ",
+            "       L        ",
+            "       LL       ",
+            "        L       "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLL            ",
+            "    LL          ",
+            "      L         ",
+            "       L        ",
+            "       L        ",
+            "        L       "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLL            ",
+            "    LL          ",
+            "      L         ",
+            "       L        ",
+            "       L        ",
+            "        L       "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLL           ",
+            "    LL          ",
+            "      L         ",
+            "      LL        ",
+            "       L        "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLL            ",
+            "    LL          ",
+            "      L         ",
+            "      L         ",
+            "       L        "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLL            ",
+            "    LL          ",
+            "      L         ",
+            "      L         ",
+            "       L        "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_10_4",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLL            ",
+            "    LL          ",
+            "      L         ",
+            "      L         ",
+            "       L        "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLL            ",
+            "    LL          ",
+            "      L         ",
+            "      L         ",
+            "       L        "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLL            ",
+            "    LL          ",
+            "      L         ",
+            "      L         ",
+            "       L        "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLL           ",
+            "    LL          ",
+            "      L         ",
+            "      LL        ",
+            "       L        "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLL           ",
+            "    LL          ",
+            "      L         ",
+            "      LL        ",
+            "       L        "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLL            ",
+            "    LL          ",
+            "      L         ",
+            "       L        ",
+            "       L        ",
+            "        L       "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_10_5",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLL            ",
+            "    LL          ",
+            "      L         ",
+            "       L        ",
+            "       L        ",
+            "        L       "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLLL           ",
+            "    LL          ",
+            "      L         ",
+            "       L        ",
+            "       LL       ",
+            "        L       "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLL            ",
+            "    LL          ",
+            "      LL        ",
+            "       L        ",
+            "        L       ",
+            "        L       ",
+            "         L      "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "LLLL            ",
+            "    LL          ",
+            "      LL        ",
+            "       L        ",
+            "        L       ",
+            "        L       ",
+            "         L      "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_01_0",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          },
+          {
+            "char": "R",
+            "blocks": [
+            {
+                "random": 40,
+                "block": "quark:iron_plate",
+                "damaged": "minecraft:iron_bars"
+            },
+            {
+                "random": 1000,
+                "block": "quark:iron_plate@1",
+                "damaged": "minecraft:iron_bars"
+            }
+            ]
+          },
+          {
+            "char": "D",
+            "block": "deepresonance:dense_glass"
+          },
+          {
+            "char": "O",
+            "block": "deepresonance:dense_obsidian",
+            "damaged": "minecraft:obsidian"
+          }
+        ],
+        "slices": [
+          [
+            "#GGGGGRRRRRRRRRR",
+            "#GGGGGRRRRRRRRRR",
+            "#GGGGGRRRRRRRRRR",
+            "#GGGGGRRRRRRRRRR",
+            "#GGGGGRRRRRRRRRR",
+            "#GGGGGRRRRRRRRRR",
+            "#GGGGGGRRRRRRRRR",
+            "#GGGGGGRRRRRRRRR",
+            "#GGGGGGGRRRRRRRR",
+            "#GGGGGGGGRRRRRRR",
+            "#GGGGGGGGGRRRRRR",
+            "#GGGGGGGGGGRRRRR",
+            "#GGGGGGGGGGGGRRR",
+            "#GGGGGGGGGGGGGGG",
+            "#GGGGGGGGGGGGGGG",
+            "################"
+          ],
+          [
+            "#     L       OO",
+            "#     :       OO",
+            "#     L       OO",
+            "#     :       :O",
+            "#     L        :",
+            "#     ::        ",
+            "#      L    D   ",
+            "#      ::       ",
+            "#       L       ",
+            "#        L      ",
+            "#         L:    ",
+            "#          :L:  ",
+            "#            :L:",
+            "#               ",
+            "#               ",
+            "################"
+          ],
+          [
+            ":     L       D ",
+            ":     :       D ",
+            ":     L       D ",
+            ":     :       :O",
+            ":     L        :",
+            ":     ::        ",
+            ":      L        ",
+            ":      ::       ",
+            ":       L       ",
+            ":        L      ",
+            ":         L:    ",
+            ":          :L:  ",
+            ":            :L:",
+            ":               ",
+            ":               ",
+            "::::::::::::::::"
+          ],
+          [
+            "      L       D ",
+            "      L       D ",
+            "      L       D ",
+            "      L       :O",
+            "      L        :",
+            "       L        ",
+            "       L        ",
+            "        L       ",
+            "        L       ",
+            "         L      ",
+            "          LL    ",
+            "            LL  ",
+            "              LL",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "      L       O ",
+            "      L       O ",
+            "      L       O ",
+            "      L       :O",
+            "      L        :",
+            "       L        ",
+            "       L        ",
+            "        L       ",
+            "        L       ",
+            "         L      ",
+            "          LL    ",
+            "            LL  ",
+            "              LL",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "       L      :O",
+            "       L      OO",
+            "       L      :O",
+            "       L      ::",
+            "       L       :",
+            "       LL       ",
+            "        L       ",
+            "         L      ",
+            "         LL     ",
+            "          LL    ",
+            "            LL  ",
+            "             LLL",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_01_1",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          },
+          {
+            "char": "D",
+            "block": "deepresonance:dense_glass"
+          },
+          {
+            "char": "O",
+            "block": "deepresonance:dense_obsidian",
+            "damaged": "minecraft:obsidian"
+          }
+        ],
+        "slices": [
+          [
+            "       L      :O",
+            "       L      :O",
+            "       L      :O",
+            "       L        ",
+            "       L        ",
+            "       LL       ",
+            "        L       ",
+            "         L      ",
+            "         LL     ",
+            "          LL    ",
+            "            LL  ",
+            "             LLL",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "       L        ",
+            "       L       O",
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "        L       ",
+            "        L       ",
+            "         L      ",
+            "          L     ",
+            "           L    ",
+            "            LL  ",
+            "              LL",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "        L       ",
+            "        L       ",
+            "         L      ",
+            "          L     ",
+            "           L    ",
+            "            LL  ",
+            "              LL",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        LL      ",
+            "         L      ",
+            "          L     ",
+            "          LL    ",
+            "            LL  ",
+            "             LLL",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        LL      ",
+            "         L      ",
+            "          L     ",
+            "          LL    ",
+            "            LL  ",
+            "             LLL",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "         L      ",
+            "         L      ",
+            "          L     ",
+            "           L    ",
+            "            LL  ",
+            "              LL",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_01_2",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "         L      ",
+            "         L      ",
+            "          L     ",
+            "           L    ",
+            "            LL  ",
+            "              LL",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "         LL     ",
+            "          L     ",
+            "          LL    ",
+            "           LL   ",
+            "            LLL ",
+            "              LL",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "         LL     ",
+            "          L     ",
+            "          LL    ",
+            "           LL   ",
+            "            LLL ",
+            "              LL",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "          L     ",
+            "          L     ",
+            "           L    ",
+            "           LL   ",
+            "             LL ",
+            "               L",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "          L     ",
+            "          L     ",
+            "           L    ",
+            "           LL   ",
+            "             LL ",
+            "               L",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          LL    ",
+            "           L    ",
+            "            L   ",
+            "             LL ",
+            "              LL",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_01_3",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          LL    ",
+            "           L    ",
+            "            L   ",
+            "             LL ",
+            "              LL",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "           L    ",
+            "           L    ",
+            "            L   ",
+            "             LL ",
+            "               L",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "           L    ",
+            "           L    ",
+            "            L   ",
+            "             LL ",
+            "               L",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "           LL   ",
+            "            L   ",
+            "             LL ",
+            "              LL",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "           LL   ",
+            "            L   ",
+            "             LL ",
+            "              LL",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "            L   ",
+            "            L   ",
+            "             LL ",
+            "               L",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_01_4",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "            L   ",
+            "            L   ",
+            "             LL ",
+            "               L",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "            L   ",
+            "            L   ",
+            "             LL ",
+            "               L",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "            L   ",
+            "            L   ",
+            "             LL ",
+            "               L",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "           LL   ",
+            "            L   ",
+            "             LL ",
+            "              LL",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "           LL   ",
+            "            L   ",
+            "             LL ",
+            "              LL",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "           L    ",
+            "           L    ",
+            "            L   ",
+            "             LL ",
+            "               L",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_01_5",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          LL    ",
+            "           L    ",
+            "            L   ",
+            "             LL ",
+            "              LL",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          LL    ",
+            "           L    ",
+            "            L   ",
+            "             LL ",
+            "              LL",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "          L     ",
+            "          L     ",
+            "           L    ",
+            "           LL   ",
+            "             LL ",
+            "               L",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "          L     ",
+            "          L     ",
+            "           L    ",
+            "           LL   ",
+            "             LL ",
+            "               L",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_11_0",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          },
+          {
+            "char": "R",
+            "blocks": [
+            {
+                "random": 40,
+                "block": "quark:iron_plate",
+                "damaged": "minecraft:iron_bars"
+            },
+            {
+                "random": 1000,
+                "block": "quark:iron_plate@1",
+                "damaged": "minecraft:iron_bars"
+            }
+            ]
+          },
+          {
+            "char": "D",
+            "block": "deepresonance:dense_glass"
+          },
+          {
+            "char": "O",
+            "block": "deepresonance:dense_obsidian",
+            "damaged": "minecraft:obsidian"
+          },
+          {
+            "char": "C",
+            "block": "deepresonance:resonating_crystal"
+          },
+          {
+            "char": "Z",
+            "block": "thermalfoundation:fluid_aerotheum"
+          },
+          {
+            "char": "E",
+            "block": "deepresonance:energy_collector",
+            "damaged": "minecraft:iron_bars"
+          },
+          {
+            "char": "N",
+            "block": "deepresonance:generator_controller",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "RRRRRRRRRRRRRGG#",
+            "RRRRRRRRRRRRRGG#",
+            "RRRRRRRRRRRRRGG#",
+            "RRRRRRRRRRRRRGG#",
+            "RRRRRRRRRRRRRGG#",
+            "RRRRRRRRRRRRRGG#",
+            "RRRRRRRRRRRRGGG#",
+            "RRRRRRRRRRRRGGG#",
+            "RRRRRRRRRRRGGGG#",
+            "RRRRRRRRRRGGGGG#",
+            "RRRRRRRRRGGGGGG#",
+            "RRRRRRRRGGGGGGG#",
+            "RRRRRRGGGGGGGGG#",
+            "GGGGGGGGGGGGGGG#",
+            "GGGGGGGGGGGGGGG#",
+            "################"
+          ],
+          [
+            "OOOOO       L  #",
+            "ONOOO       :  #",
+            "OOOOO       L  #",
+            "OOOO        :  #",
+            "OOO:        L  #",
+            "           ::  #",
+            "           L   #",
+            "      D   ::   #",
+            "    : :   L    #",
+            "    D    L     #",
+            "       :L      #",
+            "     :L:       #",
+            "L:L:L:         #",
+            "               #",
+            "               #",
+            "################"
+          ],
+          [
+            "    D       L  :",
+            " E  D       :  :",
+            "            L  :",
+            "C  O        :  :",
+            " DD         L  :",
+            "           ::  :",
+            "           L   :",
+            "          ::   :",
+            "          L    :",
+            "         L     :",
+            "       :L      :",
+            "     :L:       :",
+            "L:L:L:         :",
+            "               :",
+            "               :",
+            "::::::::::::::::"
+          ],
+          [
+            "    D       L   ",
+            "    D       L   ",
+            "    D       L   ",
+            "   O:       L   ",
+            "DD :        L   ",
+            "           L    ",
+            "           L    ",
+            "          L     ",
+            "          L     ",
+            "         L      ",
+            "       LL       ",
+            "     LL         ",
+            "LLLLL           ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "  COO       L   ",
+            "   OO       L   ",
+            "   OO       L   ",
+            "OOOO:       L   ",
+            "OOO:        L   ",
+            "           L    ",
+            "           L    ",
+            "          L     ",
+            "          L     ",
+            "         L      ",
+            "       LL       ",
+            "     LL         ",
+            "LLLLL           ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "  ZO:      L    ",
+            "   OO      L    ",
+            "Z ZO:      L    ",
+            "OOO::      L    ",
+            ":O::       L    ",
+            "          LL    ",
+            "          L     ",
+            "         L      ",
+            "        LL      ",
+            "       LL       ",
+            "     LL         ",
+            "LLLLLL          ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_11_1",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          },
+          {
+            "char": "O",
+            "block": "deepresonance:dense_obsidian",
+            "damaged": "minecraft:obsidian"
+          }
+        ],
+        "slices": [
+          [
+            "O OO:      L    ",
+            "   O:      L    ",
+            "O OO:      L    ",
+            "OOO        L    ",
+            ":::        L    ",
+            "          LL    ",
+            "          L     ",
+            "         L      ",
+            "        LL      ",
+            "       LL       ",
+            "     LL         ",
+            "LLLLLL          ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "OOO        L    ",
+            "OOOO       L    ",
+            "OOO        L    ",
+            " O         L    ",
+            "           L    ",
+            "          L     ",
+            "          L     ",
+            "         L      ",
+            "        L       ",
+            "       L        ",
+            "     LL         ",
+            "LLLLL           ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "           L    ",
+            "          L     ",
+            "          L     ",
+            "         L      ",
+            "        L       ",
+            "       L        ",
+            "     LL         ",
+            "LLLLL           ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "         LL     ",
+            "         L      ",
+            "        L       ",
+            "       LL       ",
+            "     LL         ",
+            "LLLLLL          ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "         LL     ",
+            "         L      ",
+            "        L       ",
+            "       LL       ",
+            "     LL         ",
+            "LLLLLL          ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "         L      ",
+            "         L      ",
+            "        L       ",
+            "       L        ",
+            "     LL         ",
+            "LLLLL           ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_11_2",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "          L     ",
+            "         L      ",
+            "         L      ",
+            "        L       ",
+            "       L        ",
+            "     LL         ",
+            "LLLLL           ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "        LL      ",
+            "        L       ",
+            "       LL       ",
+            "      LL        ",
+            "    LLL         ",
+            "LLLLL           ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "        LL      ",
+            "        L       ",
+            "       LL       ",
+            "      LL        ",
+            "    LLL         ",
+            "LLLLL           ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "        L       ",
+            "        L       ",
+            "       L        ",
+            "      LL        ",
+            "    LL          ",
+            "LLLL            ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "        L       ",
+            "        L       ",
+            "       L        ",
+            "      LL        ",
+            "    LL          ",
+            "LLLL            ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "       LL       ",
+            "       L        ",
+            "      L         ",
+            "    LL          ",
+            "LLLLL           ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_11_3",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "       LL       ",
+            "       L        ",
+            "      L         ",
+            "    LL          ",
+            "LLLLL           ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "       L        ",
+            "       L        ",
+            "      L         ",
+            "    LL          ",
+            "LLLL            ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "       L        ",
+            "       L        ",
+            "      L         ",
+            "    LL          ",
+            "LLLL            ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "      LL        ",
+            "      L         ",
+            "    LL          ",
+            "LLLLL           ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "      LL        ",
+            "      L         ",
+            "    LL          ",
+            "LLLLL           ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "      L         ",
+            "      L         ",
+            "    LL          ",
+            "LLLL            ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_11_4",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "      L         ",
+            "      L         ",
+            "    LL          ",
+            "LLLL            ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "      L         ",
+            "      L         ",
+            "    LL          ",
+            "LLLL            ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "      L         ",
+            "      L         ",
+            "    LL          ",
+            "LLLL            ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "      LL        ",
+            "      L         ",
+            "    LL          ",
+            "LLLLL           ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "       L        ",
+            "      LL        ",
+            "      L         ",
+            "    LL          ",
+            "LLLLL           ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "       L        ",
+            "       L        ",
+            "      L         ",
+            "    LL          ",
+            "LLLL            ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ]
+        ]
+    },
+
+    {
+        "type": "part",
+        "name": "power_plant1_11_5",
+        "xsize": 16,
+        "zsize": 16,
+        "preferslonely": 0.9,
+        "meta": [
+          {
+            "key": "dontconnect",
+            "boolean": true
+          }
+        ],
+        "palette": [
+          {
+            "char": "L",
+            "block": "minecraft:concrete@8",
+            "damaged": "minecraft:iron_bars"
+          }
+        ],
+        "slices": [
+          [
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "       L        ",
+            "       L        ",
+            "      L         ",
+            "    LL          ",
+            "LLLL            ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "        L       ",
+            "       LL       ",
+            "       L        ",
+            "      L         ",
+            "    LL          ",
+            "LLLLL           ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "        L       ",
+            "        L       ",
+            "       L        ",
+            "      LL        ",
+            "    LL          ",
+            "LLLL            ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "         L      ",
+            "        L       ",
+            "        L       ",
+            "       L        ",
+            "      LL        ",
+            "    LL          ",
+            "LLLL            ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ],
+          [
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                ",
+            "                "
+          ]
+        ]
+    },
+
+    {
+    "type": "building",
+    "name": "power_plant1_00",
+    "filler": "#",
+    "maxcellars": 0,
+    "minfloors": 5,
+    "maxfloors": 5,
+    "parts": [
+      {
+        "floor": 0,
+        "part": "power_plant1_00_0"
+      },
+      {
+        "floor": 1,
+        "part": "power_plant1_00_1"
+      },
+      {
+        "floor": 2,
+        "part": "power_plant1_00_2"
+      },
+      {
+        "floor": 3,
+        "part": "power_plant1_00_3"
+      },
+      {
+        "floor": 4,
+        "part": "power_plant1_00_4"
+      },
+      {
+      "top": true,
+      "part": "power_plant1_00_5"
+      }
+    ]
+  },
+  
+  {
+    "type": "building",
+    "name": "power_plant1_10",
+    "filler": "#",
+    "maxcellars": 0,
+    "minfloors": 5,
+    "maxfloors": 5,
+    "parts": [
+      {
+        "floor": 0,
+        "part": "power_plant1_10_0"
+      },
+      {
+        "floor": 1,
+        "part": "power_plant1_10_1"
+      },
+      {
+        "floor": 2,
+        "part": "power_plant1_10_2"
+      },
+      {
+        "floor": 3,
+        "part": "power_plant1_10_3"
+      },
+      {
+        "floor": 4,
+        "part": "power_plant1_10_4"
+      },
+      {
+      "top": true,
+      "part": "power_plant1_10_5"
+      }
+    ]
+  },
+  
+  {
+    "type": "building",
+    "name": "power_plant1_01",
+    "filler": "#",
+    "maxcellars": 0,
+    "minfloors": 5,
+    "maxfloors": 5,
+    "parts": [
+      {
+        "floor": 0,
+        "part": "power_plant1_01_0"
+      },
+      {
+        "floor": 1,
+        "part": "power_plant1_01_1"
+      },
+      {
+        "floor": 2,
+        "part": "power_plant1_01_2"
+      },
+      {
+        "floor": 3,
+        "part": "power_plant1_01_3"
+      },
+      {
+        "floor": 4,
+        "part": "power_plant1_01_4"
+      },
+      {
+      "top": true,
+      "part": "power_plant1_01_5"
+      }
+    ]
+  },
+  
+  {
+    "type": "building",
+    "name": "power_plant1_11",
+    "filler": "#",
+    "maxcellars": 0,
+    "minfloors": 5,
+    "maxfloors": 5,
+    "parts": [
+      {
+        "floor": 0,
+        "part": "power_plant1_11_0"
+      },
+      {
+        "floor": 1,
+        "part": "power_plant1_11_1"
+      },
+      {
+        "floor": 2,
+        "part": "power_plant1_11_2"
+      },
+      {
+        "floor": 3,
+        "part": "power_plant1_11_3"
+      },
+      {
+        "floor": 4,
+        "part": "power_plant1_11_4"
+      },
+      {
+      "top": true,
+      "part": "power_plant1_11_5"
+      }
+    ]
+  },
+  
+  {
+    "type": "multibuilding",
+    "name": "power_plant1",
+    "dimx": 2,
+    "dimz": 2,
+    "buildings": [
+      [
+        "power_plant1_00",
+        "power_plant1_01"
+      ],
+      [
+        "power_plant1_10",
+        "power_plant1_11"
+      ]
+    ]
+  }
+]
