@@ -358,7 +358,7 @@
         "multibuilding": "factory2"
       },
       {
-        "factor": 0.5,
+        "factor": 0.05,
         "multibuilding": "power_plant1"
       }
     ],

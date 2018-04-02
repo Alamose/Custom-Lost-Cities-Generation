@@ -150,20 +150,16 @@
         "char": "g",
         "blocks": [
           {
-            "random": 32,
+            "random": 30,
             "block": "immersivepetroleum:fluid_diesel"
           },
           {
-            "random": 32,
+            "random": 30,
             "block": "immersivepetroleum:fluid_gasoline"
           },
           {
-            "random": 32,
-            "block": "immersivepetroleum:fluid_lubricant"
-          },
-          {
             "random": 1000,
-            "block": "minecraft:water"
+            "block": "immersivepetroleum:fluid_lubricant"
           }
         ]
       }
@@ -348,7 +344,7 @@
     "name": "gas_station1",
     "filler": "R",
     "maxcellars": 3,
-    "mincellars": 1,
+    "mincellars": 2,
     "minfloors": 1,
     "maxfloors": 1,
     "parts": [

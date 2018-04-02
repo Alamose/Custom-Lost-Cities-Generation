@@ -1,4 +1,5 @@
-{
+[
+  {
     "type": "palette",
     "name": "common",
     "palette": [
@@ -285,7 +286,7 @@
         ]
       },
       {
-        "char": "g",
+        "char": "O",
         "blocks":[
           {
             "random": 25,
@@ -296,7 +297,7 @@
             "block": "immersiveengineering:stone_decoration@1"
           },
           {
-            "random": 1000,
+            "random": 100,
             "block": "minecraft:nether_brick"
           }  
         ]
@@ -329,7 +330,7 @@
             "block": "immersiveengineering:metal_decoration0@5"
           },
           {
-            "random": 1000,
+            "random": 100,
             "block": "minecraft:obsidian"
           }
         ]
@@ -339,4 +340,5 @@
         "block": "minecraft:tnt"
       }
     ]
-  },
+  }
+]

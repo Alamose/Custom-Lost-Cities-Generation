@@ -1,0 +1,1056 @@
+[
+	{
+		"type": "palette",
+		"name": "bricks_red",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:brick_block",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "$",
+				"block": "minecraft:double_stone_slab",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "#",
+				"block": "minecraft:brick_block",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:brick_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:brick_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:brick_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:brick_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:brick_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_white",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:pink_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:pink_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:pink_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:pink_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_orange",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:orange_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:orange_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:orange_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:orange_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_magenta",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:yellow_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:yellow_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:yellow_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:yellow_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_light_blue",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:light_blue_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:light_blue_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:light_blue_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:light_blue_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_yellow",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@4",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:lime_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:lime_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:lime_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:lime_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@4",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_lime",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@5",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:yellow_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:yellow_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:yellow_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:yellow_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@5",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_pink",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@6",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:brown_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:brown_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:brown_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:brown_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@6",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_gray",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@7",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:blue_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:blue_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:blue_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:blue_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@7",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_light_gray",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@8",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:purple_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:purple_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:purple_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:purple_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@8",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_cyan",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@9",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:brown_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:brown_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:brown_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:brown_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@9",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_purple",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@10",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:light_gray_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:light_gray_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:light_gray_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:light_gray_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@10",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_blue",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@11",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:light_blue_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:light_blue_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:light_blue_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:light_blue_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@11",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_brown",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@12",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:cyan_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:cyan_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:cyan_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:cyan_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@12",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_green",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@13",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:green_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:green_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:green_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:green_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@13",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_red",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@14",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:black_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:black_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:black_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:black_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@14",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	},
+
+	{
+		"type": "palette",
+		"name": "concrete_black",
+		"palette": [
+			{
+				"char": "X",
+				"block": "minecraft:concrete@15",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+        		"char": "$",
+	       		"blocks": [
+		          	{
+		            	"random": 25,
+		            	"block": "minecraft:gray_glazed_terracotta@0"
+		          	},
+		          	{
+		           		"random": 25,
+						"block": "minecraft:gray_glazed_terracotta@1"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:gray_glazed_terracotta@2"
+					},
+					{
+						"random": 25,
+						"block": "minecraft:gray_glazed_terracotta@3"
+					}
+				]
+			},
+			{
+				"char": "#",
+				"block": "minecraft:concrete@15",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "A",
+				"block": "minecraft:quartz_stairs@1",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "t",
+				"block": "minecraft:quartz_stairs@0",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "z",
+				"block": "minecraft:quartz_stairs@3",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "c",
+				"block": "minecraft:quartz_stairs@2",
+				"damaged": "minecraft:iron_bars"
+			},
+			{
+				"char": "d",
+				"block": "minecraft:quartz_stairs@7",
+				"damaged": "minecraft:iron_bars"
+			}
+		]
+	}
+]
